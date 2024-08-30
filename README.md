@@ -21,7 +21,7 @@ A letra "o" é convertida para "ober"
 
 A letra "u" é convertida para "ufat"
 
-Exemplo O texto "gato" será criptografado para "gaitober". O texto "gaitober" será descrito para "gato".
+Exemplo O texto "gato" será criptografado para "gaitober". O texto "gaitober" será descriptografado para "gato".
 
 Funcionalidades da Página
 
