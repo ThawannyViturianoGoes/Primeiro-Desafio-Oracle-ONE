@@ -36,6 +36,7 @@ O desafio está sendo ainda maior, pois estou grávida, sentindo enjôos, descon
 FINALIZANDO
 
 Obrigada por visitar esse repositório do Challenge Decodificador de Texto - Alura Oracle One
+
 Att.
 Thawanny Vituriano Góes
 
