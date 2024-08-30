@@ -27,6 +27,10 @@ Extras
 
 Botão de Copiar Texto Para facilitar o uso da aplicação, foi implementado um botão funcional que permite copiar o texto criptografado ou descritivo com apenas um clique.
 
+Tecnologias
+
+Nesse projeto foi utilizado HTML, CSS e JavaScript.
+
 OBSERVAÇÃO
 
 Esse é o meu primeiro curso profissionalizante na área de TI, estou tendo a oportunidade de ingressar no mundo da programação.
