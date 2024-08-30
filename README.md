@@ -38,3 +38,6 @@ FINALIZANDO
 Obrigada por visitar esse repositório do Challenge Decodificador de Texto - Alura Oracle One
 Att.
 Thawanny Vituriano Góes
+
+![ImagemProjeto](https://github.com/user-attachments/assets/e3e80f94-adbf-4452-9e92-e7630774b316)
+
