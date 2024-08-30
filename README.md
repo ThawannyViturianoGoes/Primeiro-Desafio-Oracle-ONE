@@ -1,7 +1,10 @@
 # Primeiro-Desafio-Oracle-ONE
-LINK DO PROJETO FINALIZADO: 
+LINK DO PROJETO FINALIZADO:
 https://thawannyviturianogoes.github.io/Primeiro-Desafio-Oracle-ONE/
-
+===========================================================================
+LINK PUBLICAÇÃO DO PROJETO NO LINKEDIN:
+https://www.linkedin.com/feed/update/urn:li:activity:7235079287194718208/
+===========================================================================
 Sobre o Desafio
 
 O projeto envolve a criação de um decodificador de texto, desenvolvido como parte de um desafio do programa Oracle Next Education em colaboração com a Alura. O projeto visa criar um aplicativo capaz de criptografar e descriptografar mensagens de texto, fornecendo uma oportunidade prática de aplicar conhecimento técnico
@@ -25,6 +28,9 @@ Extras
 Botão de Copiar Texto Para facilitar o uso da aplicação, foi implementado um botão funcional que permite copiar o texto criptografado ou descritivo com apenas um clique.
 
 OBSERVAÇÃO
+
 Esse é o meu primeiro curso profissionalizante na área de TI, estou tendo a oportunidade de ingressar no mundo da programação.
 Está sendo muito desafiador aprender tudo isso, principalmente por ter conhecimento básico em informatica.
 O desafio está sendo ainda maior, pois estou grávida, sentindo enjôos, desconfortos, tudo que tem direito. (kkkk)
+
+FINALIZANDO
