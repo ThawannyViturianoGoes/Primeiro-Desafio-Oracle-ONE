@@ -11,7 +11,11 @@ O projeto envolve a criação de um decodificador de texto, desenvolvido como pa
 Decodificador de Texto - Alura Challenges Oracle ONE
 
 As substituições utilizadas para criptografia serão as seguintes:
-A letra "e" é convertida para "enter" A letra "i" é convertida para "imes" A letra "a" é convertida para "ai" A letra "o" é convertida para "ober" A letra "u" é convertida para "ufat"
+A letra "e" é convertida para "enter" 
+A letra "i" é convertida para "imes" 
+A letra "a" é convertida para "ai" 
+A letra "o" é convertida para "ober" 
+A letra "u" é convertida para "ufat"
 
 Exemplo O texto "gato" será criptografado para "gaitober". O texto "gaitober" será descrito para "gato".
 
