@@ -30,7 +30,7 @@ Botão de Copiar Texto Para facilitar o uso da aplicação, foi implementado um 
 OBSERVAÇÃO
 
 Esse é o meu primeiro curso profissionalizante na área de TI, estou tendo a oportunidade de ingressar no mundo da programação.
-Está sendo muito desafiador aprender tudo isso, principalmente por ter conhecimento básico em informatica.
+Está sendo muito desafiador aprender tudo isso, principalmente por ter conhecimento básico em informática.
 O desafio está sendo ainda maior, pois estou grávida, sentindo enjôos, desconfortos, tudo que tem direito. (kkkk)
 
 FINALIZANDO
