@@ -2,7 +2,7 @@
 LINK DO PROJETO FINALIZADO:
 https://thawannyviturianogoes.github.io/Primeiro-Desafio-Oracle-ONE/
 ===========================================================================
-LINK PUBLICAÇÃO DO PROJETO NO LINKEDIN:
+LINK DA PUBLICAÇÃO DO PROJETO NO LINKEDIN:
 https://www.linkedin.com/feed/update/urn:li:activity:7235079287194718208/
 ===========================================================================
 Sobre o Desafio
@@ -34,3 +34,7 @@ Está sendo muito desafiador aprender tudo isso, principalmente por ter conhecim
 O desafio está sendo ainda maior, pois estou grávida, sentindo enjôos, desconfortos, tudo que tem direito. (kkkk)
 
 FINALIZANDO
+
+Obrigada por visitar esse repositório do Challenge Decodificador de Texto - Alura Oracle One
+Att.
+Thawanny Vituriano Góes
