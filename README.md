@@ -1,4 +1,4 @@
-# Primeiro-Desafio-Oracle-ONE - Decodificador de Texto
+# Primeiro Desafio Oracle ONE - Decodificador de Texto
 LINK DO PROJETO FINALIZADO:
 https://thawannyviturianogoes.github.io/Primeiro-Desafio-Oracle-ONE/
 ===========================================================================
